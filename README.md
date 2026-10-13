@@ -157,8 +157,8 @@ Initial experiments using SAM 2 automatic mask generation produced the following
 
 | Metric | Result |
 |---|---:|
-| Mean IoU | ~0.39 |
-| Mean Dice | ~0.53 |
+| Mean IoU | ~0.67 |
+| Mean Dice | ~0.80 |
 | Average masks/image | ~6.84 |
 
 These results are from preliminary experiments and depend on the evaluated subset and mask-generation configuration.
