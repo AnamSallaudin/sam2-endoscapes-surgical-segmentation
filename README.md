@@ -163,7 +163,7 @@ Initial experiments using SAM 2 automatic mask generation produced the following
 
 These results are from preliminary experiments and depend on the evaluated subset and mask-generation configuration.
 
-Further experiments are planned to establish more robust dataset-level results.
+Further experiments are planned using the latest SAM version(SAMV3.1) to establish more robust dataset-level results.
 
 ## Segmentation Results
 
