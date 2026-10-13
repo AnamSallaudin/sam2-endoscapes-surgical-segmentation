@@ -165,6 +165,18 @@ These results are from preliminary experiments and depend on the evaluated subse
 
 Further experiments are planned to establish more robust dataset-level results.
 
+## Segmentation Results
+
+<p align="center">
+  <img src="segmentation_results/122_13000_segmented.png" width="45%" alt="Segmentation result 122 at frame 13000">
+  <img src="segmentation_results/122_5450_segmented.png" width="45%" alt="Segmentation result 122 at frame 5450">
+</p>
+
+<p align="center">
+  <img src="segmentation_results/155_26800_segmented.png" width="45%" alt="Segmentation result 155 at frame 26800">
+  <img src="segmentation_results/161_28775_segmented.png" width="45%" alt="Segmentation result 161 at frame 28775">
+</p>
+
 ## 🖥️ Hardware & Environment
 
 Experiments were conducted on a university HPC environment using NVIDIA A100 GPUs.
